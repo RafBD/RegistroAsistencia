@@ -56,6 +56,4 @@ Algunas de las consultas a la base de datos se realizan mediante Stored Procedur
 #### Contribuciones 🙌🏽
 ¡Las contribuciones son bienvenidas! Para contribuir, sigue los pasos habituales de bifurcación y solicitudes pull. 😉
 
-¡Gracias por tu interés en este proyecto! Siéntete libre de contactarnos para cualquier pregunta o comentario.
-
 ⌨️ con ❤️ por [Rafael Benítez Díaz](https://github.com/RafBD) 😊
